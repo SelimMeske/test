@@ -11,3 +11,7 @@ fun main() {
 fun new_function() {
     println("New func")
 }
+
+fun john_doe_function() {
+    println("hi")
+}
