@@ -7,3 +7,7 @@ fun main() {
     println(name)
     println(meske)
 }
+
+fun new_function() {
+    println("New func")
+}
